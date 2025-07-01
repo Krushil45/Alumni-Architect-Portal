@@ -13,11 +13,11 @@
 
 **Alumni Architect** solves the gap in student–alumni–institution connections by offering a verified, interactive platform for:
 
-- 🎯 Career Guidance
-- 🧑‍💼 Mentorship
-- 🌐 Networking & Collaboration
-- 📚 Resource Sharing
-- ✅ Authentic Profiles
+- 🎯 Career Guidance  
+- 🧑‍💼 Mentorship  
+- 🌐 Networking & Collaboration  
+- 📚 Resource Sharing  
+- ✅ Authentic Profiles  
 
 <div align="center">
   <img src="https://i.imgur.com/1YzNpMW.png" alt="Alumni Architect UI Preview" width="80%"/>
@@ -30,7 +30,7 @@
 
 ### 🧠 Core Features
 
-- **Resource Library**: Centralized learning materials.
+- **Resource Library**: Centralized access to learning materials.
 - **Group Study Rooms**: Online collaborative spaces.
 - **Real-World Projects**: Hands-on industry projects with alumni.
 - **Skill Tracker**: Track and monitor student progress.
@@ -57,7 +57,6 @@
 <summary><strong>📥 Installation Guide</strong> (click to expand)</summary>
 
 ### 🔧 Backend Setup (Spring Boot)
-```bash
 # Clone the backend repo
 git clone https://github.com/your-org/alumni-architect-backend.git
 cd alumni-architect-backend
@@ -69,7 +68,12 @@ spring.datasource.password=your_password
 
 # Run the backend
 ./mvnw spring-boot:run
-### 💻 Frontend Setup (React)
+
+
+💻 Frontend Setup (React)
+bash
+Copy
+Edit
 # Clone the frontend repo
 git clone https://github.com/your-org/alumni-architect-frontend.git
 cd alumni-architect-frontend
@@ -81,32 +85,31 @@ npm install
 npm start
 
 </details>
-```
----
+
 ### 📈 Impact & Benefits
 👨‍🎓 Students	👩‍💼 Alumni	🏫 Institutions
-Career Guidance	Mentorship Opportunities	Strong Alumni Relations
-Learning Materials	Job Connections	Scholarship Support
-Project Collaboration	Industry Talks	Collaboration Portals
+🎯 Career Guidance	🤝 Mentorship Opportunities	📣 Strengthened Alumni Relations
+📚 Learning Materials	💼 Job Connections	🎓 Scholarship & Grant Support
+🤝 Project Collaboration	🎤 Industry Talks	🔗 Collaboration Opportunities
 
 ### 📄 License
 MIT License © 2025 Alumni Architect
 “Connecting Minds, Building Futures”
 
----
-
-## 🏆 Author
-**Kapupara Krushil**  
-- 📧 Email: krusilkapupara456@gmail.com  
-- 🔗 **GitHub:** [GitHub](https://github.com/Krushil45)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/krushil-kapupara/)  
-
----
+### 🏆 Author
+Kapupara Krushil
+📧 Email: krusilkapupara456@gmail.com
+🔗 GitHub: @Krushil45
+🔗 LinkedIn: krushil-kapupara
 
 ### ❤️ Contributions
 We welcome contributions!
-Check out the CONTRIBUTING.md guide to get started.
 
----
+Let me know if you want:
 
+- 📁 Folder structure example  
+- 📋 API endpoints documentation  
+- 🧑‍💻 Deployment guide (Render, Railway, Vercel + backend)  
+- 📝 Separate `CONTRIBUTING.md` or `LICENSE` files  
 
+I can generate them for you too!
