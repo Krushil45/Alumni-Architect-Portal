@@ -88,8 +88,11 @@ npm start
 
 ### 📈 Impact & Benefits
 👨‍🎓 Students	👩‍💼 Alumni	🏫 Institutions
+
 🎯 Career Guidance	🤝 Mentorship Opportunities	📣 Strengthened Alumni Relations
+
 📚 Learning Materials	💼 Job Connections	🎓 Scholarship & Grant Support
+
 🤝 Project Collaboration	🎤 Industry Talks	🔗 Collaboration Opportunities
 
 ### 📄 License
