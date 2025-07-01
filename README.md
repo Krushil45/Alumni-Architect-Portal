@@ -17,11 +17,11 @@
 - 🧑‍💼 Mentorship  
 - 🌐 Networking & Collaboration  
 - 📚 Resource Sharing  
-- ✅ Authentic Profiles  
+- ✅ Authentic Profiles
+- Both Alumni and Student 
 
-<div align="center">
-  <img src="[image](https://github.com/user-attachments/assets/582d6aac-913b-404f-8004-d628ad789265)"/>
-</div>
+### Home Page 
+[image](https://github.com/user-attachments/assets/52d6f1c7-8acc-4311-9ac3-47aa0cf1ac82)
 
 ---
 
