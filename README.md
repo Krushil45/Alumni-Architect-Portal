@@ -20,8 +20,7 @@
 - ✅ Authentic Profiles  
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/582d6aac-913b-404f-8004-d628ad789265)
-"/>
+  <img src="[image](https://github.com/user-attachments/assets/582d6aac-913b-404f-8004-d628ad789265)"/>
 </div>
 
 ---
@@ -99,8 +98,11 @@ MIT License © 2025 Alumni Architect
 
 ### 🏆 Author
 Kapupara Krushil
+
 📧 Email: krusilkapupara456@gmail.com
+
 🔗 GitHub: @Krushil45
+
 🔗 LinkedIn: krushil-kapupara
 
 ### ❤️ Contributions
