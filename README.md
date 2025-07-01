@@ -20,7 +20,8 @@
 - ✅ Authentic Profiles  
 
 <div align="center">
-  <img src="https://i.imgur.com/1YzNpMW.png" alt="Alumni Architect UI Preview" width="80%"/>
+  <img src="![image](https://github.com/user-attachments/assets/582d6aac-913b-404f-8004-d628ad789265)
+"/>
 </div>
 
 ---
