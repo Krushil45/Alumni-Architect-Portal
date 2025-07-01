@@ -82,6 +82,7 @@ npm start
 
 </details>
 ```
+---
 ### 📈 Impact & Benefits
 👨‍🎓 Students	👩‍💼 Alumni	🏫 Institutions
 Career Guidance	Mentorship Opportunities	Strong Alumni Relations
@@ -92,7 +93,20 @@ Project Collaboration	Industry Talks	Collaboration Portals
 MIT License © 2025 Alumni Architect
 “Connecting Minds, Building Futures”
 
+---
+
+## 🏆 Author
+**Kapupara Krushil**  
+- 📧 Email: krusilkapupara456@gmail.com  
+- 🔗 **GitHub:** [GitHub](https://github.com/Krushil45)  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/krushil-kapupara/)  
+
+---
 
 ### ❤️ Contributions
 We welcome contributions!
 Check out the CONTRIBUTING.md guide to get started.
+
+---
+
+
