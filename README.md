@@ -81,15 +81,7 @@ npm install
 npm start
 </details>
 
-### 📈 Impact & Benefits
-👨‍🎓 Students	👩‍💼 Alumni	🏫 Institutions
-Career Guidance	Mentorship Opportunities	Strong Alumni Relations
-Learning Materials	Job Connections	Scholarship Support
-Project Collaboration	Industry Talks	Collaboration Portals
 
-📄 License
-MIT License © 2025 Alumni Architect
-“Connecting Minds, Building Futures”
 
 ❤️ Contributions
 We welcome contributions!
