@@ -1,0 +1,161 @@
+  .nav-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+  background-color: #0056b3;
+  color: white;
+  position: relative;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-section {
+  display: flex;
+  background-color: #0056b3;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.p-img {
+  align-items: center;
+  justify-content: center;
+}
+
+.p-img img {
+  height: 47px;
+  width: 47px;
+  border-radius: 50%;
+  margin-right: 10px;
+  border: 2px solid transparent;
+}
+
+.p-name {
+  font-size: 20px;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 20px;
+  width: 40%;
+  position: relative;
+}
+
+.search-icon {
+  margin-right: 10px;
+  color: blue;
+}
+
+.search-bar input {
+  border: none;
+  background: none;
+  color: black;
+  outline: none;
+  width: 100%;
+}
+
+.nav-icons {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-left: 20px;
+  cursor: pointer;
+  color: white;
+  font-size: 18px;
+}
+
+.icon:hover {
+  color: #d9e6ff;
+}
+
+.dropdown-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 100vh;
+  background-color: #ffffff;
+  color: #333;
+  padding: 20px;
+  box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+  z-index: 1000;
+}
+
+.dropdown-menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.dropdown-menu li {
+  padding: 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  color: #333;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-menu li:hover {
+  background-color: #0056b3;
+  color: #ffffff;
+}
+
+.dropdown-profile {
+  background-color: #e8f1f2;
+  padding: 12px;
+  border-radius: 2px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 10px;
+  margin: -20px -20px 0 -20px;
+}
+
+.logout {
+  color: #ff4d4d !important;
+  font-weight: bold;
+}
+
+.logout:hover {
+  background-color: #ff4d4d !important;
+  color: #ffffff !important;
+}
+
+/* New Styles for Search Results */
+.search-results-container {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  overflow: hidden;
+  color: black;
+  font-weight: 500;
+}
+
+.search-results {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.search-result-item {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+.search-result-item:hover {
+  background-color: #f0f0f0;
+}

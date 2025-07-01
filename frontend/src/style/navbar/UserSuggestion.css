@@ -1,0 +1,77 @@
+.user-suggestion-container {
+  width: 100%;
+  max-width: 800px; /* Or a percentage like 95% */
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.scroll-btn {
+  background-color: #f3f3f3;
+  border: none;
+  cursor: pointer;
+  padding: 5px 10px;
+  font-size: 18px;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+.scroll-btn:hover {
+  background-color: #ddd;
+}
+
+.profile-list {
+  display: flex;
+  justify-content: flex-start; /* Changed to flex-start */
+  align-items: stretch; /* Changed to stretch */
+  overflow-x: auto;
+  gap: 30px;
+  padding-bottom: 10px;
+  scrollbar-width: none;
+}
+
+.profile-card {
+  flex: 0 0 auto; /* changed from min-content */
+  width: 220px; /* fixed width  */
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  word-break: break-word; /* Allow words to break to prevent overflow */
+}
+
+.profile-card:hover {
+  cursor: pointer;
+}
+
+.profile-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+
+.profile-name {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.profile-email {
+  font-size: 14px;
+  color: rgb(63, 63, 63);
+}
+
+.loading-text {
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  margin-top: 10px;
+}
