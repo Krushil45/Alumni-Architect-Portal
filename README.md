@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Backend-SpringBoot-brightgreen?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/Database-MySQL-green?style=for-the-badge&logo=MySQL" />
   <img src="https://img.shields.io/badge/Status-%20Developed-green?style=for-the-badge&logo=progress" />
   <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" />
 </p>
